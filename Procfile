@@ -1,1 +1,1 @@
-wrb: gunicorn room_slot.wsgi --log-file -
+web: gunicorn room_slot.wsgi --log-file -
