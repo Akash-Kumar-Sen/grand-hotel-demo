@@ -4,7 +4,7 @@ asgiref==3.3.1
 astroid==2.4.2
 beautifulsoup4==4.9.3
 certifi==2020.12.5
-chardet==4.0.0
+chardet==3.0.3
 colorama==0.4.3
 distlib==0.3.1
 Django==3.1.5
@@ -47,7 +47,7 @@ soupsieve==2.1
 SpeechRecognition==3.8.1
 sqlparse==0.4.1
 toml==0.10.1
-urllib3==1.26.3
+urllib3==1.25.3
 virtualenv==20.0.31
 whitenoise==5.2.0
 wikipedia==1.4.0
